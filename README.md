@@ -9,7 +9,7 @@ S1 = {www.}
 </b><b>
 
 
-S2 = @@âˆ—, which consists of strings over ô€€€ of positive length
+S2 = @@âˆ—, which consists of strings over @ of positive lengthí°€ of positive length
 </b><b>
 
 
