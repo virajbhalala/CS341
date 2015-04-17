@@ -9,7 +9,7 @@ S1 = {www.}
 </b><b>
 
 
-S2 = @@âˆ—, which consists of strings over @ of positive lengthí°€ of positive length
+S2 = @@âˆ—, which consists of strings over @ of positive length
 </b><b>
 
 
@@ -30,7 +30,7 @@ DFA image
 ![alt tag](https://github.com/virajbhalala/URL-Checker-based-on-DFA/blob/master/DFA.png)
 
 
-If you need  help about DFA, please go here http://en.wikipedia.org/wiki/Deterministic_finite_automaton
+If you need  help about learning DFA, please go here http://en.wikipedia.org/wiki/Deterministic_finite_automaton
 
-This can be easily be modify by changing the grammer rules and chaning code based on it.
+This can be easily modify by changing the grammer rules and then chaning code based on it.
 
