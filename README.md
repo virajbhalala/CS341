@@ -4,6 +4,7 @@ let @= {a, b, c, . . . , z}
 
 let E=@ ∪ {.} where E(epsilon) means the set of symbols that can only be used
 
+<b>
 S1 = {www.}
 
 S2 = @@∗, which consists of strings over 􀀀 of positive length
@@ -16,7 +17,7 @@ L1 = S1 S2 S3
 L2 = S2 S3
 
 L = L1 ∪ L2
-
+</b>
 
 DFA image 
 
