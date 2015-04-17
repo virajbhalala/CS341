@@ -1,0 +1,813 @@
+
+ 1) www.commercial.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.commercial.com
+You entered: commercial.com
+
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: m
+State q11
+
+Character processed: m
+State q8
+
+in method 8
+Character processed: e
+State q8
+
+in method 8
+Character processed: r
+State q8
+
+in method 8
+Character processed: c
+State q8
+
+in method 8
+Character processed: i
+State q8
+
+in method 8
+Character processed: a
+State q8
+
+in method 8
+Character processed: l
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+
+2)www.co.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.co.com
+You entered: www.co.com
+
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: .
+State q21
+
+Character processed: c
+State q18
+
+Character processed: o
+State q19
+
+Character processed: m
+State q20
+
+String is Accepted!
+
+3)www.x.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.x.com
+You entered: www.x.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: x
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+4)njit.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+njit.com
+You entered: njit.com
+State: q1
+
+Character processed: n
+State q8
+
+in method 8
+Character processed: j
+State q8
+
+in method 8
+Character processed: i
+State q8
+
+in method 8
+Character processed: t
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+5)wwww.stanford.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+wwww.stanford.com
+You entered: www.standord.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: w
+State q8
+
+Character processed: .
+State q9
+
+String is REJECTED!
+
+6)www.com.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.com.com
+You entered: www.com.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: m
+State q11
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+7) ww.com.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+ww.com.com
+You entered: ww.com.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is REJECTED!
+
+8)co.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+co.com
+You entered: co.com
+State: q1
+
+Character processed: c
+State q8
+
+in method 8
+Character processed: o
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+
+9)www.www.com.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.www.com.com
+You entered: www.www.com.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: w
+State q8
+
+in method 8
+Character processed: w
+State q8
+
+in method 8
+Character processed: w
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is REJECTED!
+
+10)ww.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+ww.com
+You entered: ww.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+11)www.com
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.com
+You entered: www.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: m
+State q11
+
+String is Accepted!
+
+12) wwd.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+wwd.com
+You entered: wwd.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: d
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+13) wwwb.com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+wwwb.com
+You entered: wwwb.com
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: b
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: m
+State q13
+
+String is Accepted!
+
+14)www..com
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www..com
+You entered: www..com 
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+String is REJECTED!
+
+15)www.abcd.co
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.abcd.co
+You entered: www.abcd.co
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: a
+State q8
+
+in method 8
+Character processed: b
+State q8
+
+in method 8
+Character processed: c
+State q8
+
+in method 8
+Character processed: d
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+String is REJECTED!
+
+16)www.company.co.jp
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.company.co.jp
+You entered: www.company.co.jp
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: m
+State q11
+
+Character processed: p
+State q8
+
+in method 8
+Character processed: a
+State q8
+
+in method 8
+Character processed: n
+State q8
+
+in method 8
+Character processed: y
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: .
+State q14
+
+Character processed: j
+State q15
+
+Character processed: p
+State q16
+
+String is Accepted!
+
+17)company.co.jp
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+company.co.jp
+You entered: company.co.jp
+State: q1
+
+Character processed: c
+State q8
+
+in method 8
+Character processed: o
+State q8
+
+in method 8
+Character processed: m
+State q8
+
+in method 8
+Character processed: p
+State q8
+
+in method 8
+Character processed: a
+State q8
+
+in method 8
+Character processed: n
+State q8
+
+in method 8
+Character processed: y
+State q8
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: .
+State q14
+
+Character processed: j
+State q15
+
+Character processed: p
+State q16
+
+String is Accepted!
+
+18)www.co.co.jp
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.co.co.jp
+You entered: www.co.co.jp
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: .
+State q21
+
+Character processed: c
+State q18
+
+Character processed: o
+State q19
+
+Character processed: .
+State q14
+
+Character processed: j
+State q15
+
+Character processed: p
+State q16
+
+String is Accepted!
+
+
+19) www.com.co.jp
+
+ Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.com.co.jp
+You entered: www.com.co.jp
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: m
+State q11
+
+Character processed: .
+State q9
+
+Character processed: c
+State q10
+
+Character processed: o
+State q12
+
+Character processed: .
+State q14
+
+Character processed: j
+State q15
+
+Character processed: p
+State q16
+
+String is Accepted!
+
+20)www.co.jp
+
+Do you want to enter a string? Please enter "y" for yes and "n " for no 
+y
+Please input the string to test the program!
+www.co.jp
+You entered: www.co.jp
+State: q1
+
+Character processed: w
+State: q2
+
+Character processed: w
+State: q3
+
+Character processed: w
+State: q4
+
+Character processed: .
+State q5
+
+Character processed: c
+State q6
+
+Character processed: o
+State q7
+
+Character processed: .
+State q21
+
+Character processed: j
+State q22
+
+Character processed: p
+State q23
+
+String is Accepted!
+
