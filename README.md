@@ -14,8 +14,8 @@ S2 = @@∗, which consists of strings over 􀀀 of positive length
 
 
 S3 = {.com} ∪ {.co.jp}
-</b><b>
 
+</b><b>
 L1 = S1 S2 S3
 
 </b><b>
