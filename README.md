@@ -6,9 +6,9 @@ let E=@ ∪ {.} where E(epsilon) means the set of symbols that can only be used
 
 <b>
 S1 = {www.}
-
+<b>
 S2 = @@∗, which consists of strings over 􀀀 of positive length
-
+<b>
 S3 = {.com} ∪ {.co.jp}
 
 
