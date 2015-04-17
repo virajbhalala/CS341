@@ -6,11 +6,15 @@ let E=@ ∪ {.} where E(epsilon) means the set of symbols that can only be used
 
 <b>
 S1 = {www.}
-<b>
-S2 = @@∗, which consists of strings over 􀀀 of positive length
-<b>
-S3 = {.com} ∪ {.co.jp}
+</b><b>
 
+
+S2 = @@∗, which consists of strings over 􀀀 of positive length
+</b><b>
+
+
+S3 = {.com} ∪ {.co.jp}
+</b>
 
 L1 = S1 S2 S3
 
