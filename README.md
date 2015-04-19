@@ -1,4 +1,4 @@
-# URL-Checker-based-on-DFA(Deterministic Pushdown Automata)
+# URL-Checker-based-on-DFA(Deterministic Finite Automata)
 
 let @= {a, b, c, . . . , z}
 
